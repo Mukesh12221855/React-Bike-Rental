@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Bike-Rental/static/css/main.bf5ae97f.css",
+    "main.js": "/React-Bike-Rental/static/js/main.53f2e86b.js",
+    "static/media/remixicon.svg?t=1590207869815": "/React-Bike-Rental/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/React-Bike-Rental/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/React-Bike-Rental/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/React-Bike-Rental/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/React-Bike-Rental/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/bike-blog-3.jpg": "/React-Bike-Rental/static/media/bike-blog-3.c718a756400a55ee635d.jpg",
+    "static/media/bike-blog-1.jpg": "/React-Bike-Rental/static/media/bike-blog-1.0ae8b8d5f51905063433.jpg",
+    "static/media/r15.jpg": "/React-Bike-Rental/static/media/r15.b8016d0c38528fc03e84.jpg",
+    "static/media/bike-sider2.jpg": "/React-Bike-Rental/static/media/bike-sider2.30a8178d24662520c3bf.jpg",
+    "static/media/bike-sider.jpg": "/React-Bike-Rental/static/media/bike-sider.651a83529ff890d4cb60.jpg",
+    "static/media/yamaha-mt-15.jpg": "/React-Bike-Rental/static/media/yamaha-mt-15.d2370af7d182b493bb36.jpg",
+    "static/media/bike-sider1.jpg": "/React-Bike-Rental/static/media/bike-sider1.6f4de341a6017026e789.jpg",
+    "static/media/pulsar-n160.jpg": "/React-Bike-Rental/static/media/pulsar-n160.0b85c9381f18b54a193e.jpg",
+    "static/media/slick.svg": "/React-Bike-Rental/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-Bike-Rental/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-Bike-Rental/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-Bike-Rental/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-Bike-Rental/index.html",
+    "main.bf5ae97f.css.map": "/React-Bike-Rental/static/css/main.bf5ae97f.css.map",
+    "main.53f2e86b.js.map": "/React-Bike-Rental/static/js/main.53f2e86b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5ae97f.css",
+    "static/js/main.53f2e86b.js"
+  ]
+}
