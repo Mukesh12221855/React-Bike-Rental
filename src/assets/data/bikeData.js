@@ -43,9 +43,9 @@ const bikeData = [
 
   {
     id: 3,
-    brand: "BMW",
+    brand: "R-15",
     rating: 132,
-    BikeName: "BMW X3",
+    BikeName: "R-15",
     imgUrl: img03,
     model: "Model-2022",
     price: 65,
@@ -59,9 +59,9 @@ const bikeData = [
 
   {
     id: 4,
-    brand: "Nissan",
+    brand: "Pulsar-n160",
     rating: 102,
-    BikeName: "Nissan Mercielago",
+    BikeName: "Pulsar-n160",
     imgUrl: img04,
     model: "Model-2022",
     price: 70,
@@ -75,9 +75,9 @@ const bikeData = [
 
   {
     id: 5,
-    brand: "Ferrari",
+    brand: "GT-650",
     rating: 94,
-    BikeName: "Ferrari Camry",
+    BikeName: "GT-650",
     imgUrl: img05,
     model: "Model-2022",
     price: 45,
@@ -91,9 +91,9 @@ const bikeData = [
 
   {
     id: 6,
-    brand: "Mercedes",
+    brand: "Unicorn",
     rating: 119,
-    BikeName: "Mercedes Benz XC90",
+    BikeName: "Unicorn",
     imgUrl: img06,
     model: "Model-2022",
     price: 85,
@@ -107,9 +107,9 @@ const bikeData = [
 
   {
     id: 7,
-    brand: "Audi",
+    brand: "Activa",
     rating: 82,
-    BikeName: "Audi Fiesta",
+    BikeName: "Activa",
     imgUrl: img07,
     model: "Model 3",
     price: 50,
@@ -123,9 +123,9 @@ const bikeData = [
 
   {
     id: 8,
-    brand: "Colorado",
+    brand: "Electric-bike",
     rating: 52,
-    BikeName: "Rolls Royce Colorado",
+    BikeName: "Electic-bike",
     imgUrl: img08,
     model: "Model 3",
     price: 50,
